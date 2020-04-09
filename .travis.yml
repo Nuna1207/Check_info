@@ -6,8 +6,8 @@ node_js:
 
 addons:
   sonarcloud:
-    organization: "selfal"
-    token: "e72b317053038c4bf4177eb8bbd05e2495db5dc2"
+    organization: "Nuna"
+    token: "a58963ab62716362a6e03b1d258fa8415c0fbd5a"
 
 script:
   - sonar-scanner -X
